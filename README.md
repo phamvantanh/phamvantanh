@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/phamvantanh/">
   <img align="left" alt="Pham Van Tanh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=phamvantanh.phamvantanh)
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
