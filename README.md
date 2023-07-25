@@ -3,7 +3,7 @@
   <img align="left" alt="Pham Van Tanh | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />
 </a>
 <a href="https://www.linkedin.com/in/phamvantanh/">
-  <img align="left" alt="Pham Van Tanh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pham Van Tanh's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href="https://public.tableau.com/app/profile/pham.van.tanh">
   <img align="left" alt="Pham Van Tanh's LinkedIN" width="22px" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h.jpg" />
